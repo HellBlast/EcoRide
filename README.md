@@ -5,4 +5,4 @@ Development of the Ecoride project website
 
 # EXAMPLE
 
-[*] https://yoliani.github.io/EcoRide/
+- https://yoliani.github.io/EcoRide/
