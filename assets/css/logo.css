@@ -1,0 +1,17 @@
+.loginlogo img {
+  width: 60%;
+  border-radius: 10px;
+}
+
+.loginlogo div {
+  text-align: center;
+  border-radius: 5px;
+}
+
+.espacio hr {
+  size: 10px;
+}
+
+.navbaricon img {
+  width: 1%;
+}
