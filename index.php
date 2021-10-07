@@ -66,18 +66,36 @@
       </nav>
     </section>
     <section class="landing">
-      <div class="landing">
+      <div class="">
+	<br/>
+	<br/>
 	<h1
 	  style="
 	  text-align: center;
+padding: 0px;
 	  color: black;
 	  font-family: Helvetica, Arial;
 	  "
 	  >
-	  Somos expertos en la atención de nuestros clientes y en el cuidado del
+	  Somos expertos en la atención de<br> nuestros clientes y en el <br>cuidado del
 	  medio ambiente.
 	</h1>
       </div>
+<br/>
+<br/>
+<div class="row landing_row" >
+      <div class="column landing_col">
+	<button class="btn_landing">Leer más</button> 
+
+
+      </div>
+
+      <div class="column landing_col">
+	<button class="btn_landing">Contactanos</button> 
+
+
+      </div>
+<div/>
     </section>
     <section class="projects-clean">
       <div class="container">
