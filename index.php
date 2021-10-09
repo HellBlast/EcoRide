@@ -43,12 +43,12 @@
 		  <a class="nav-link" href="#">Inicio</a>
 		</li>
 		<li class="nav-item">
-		  <a class="nav-link" href="#">Productos</a>
+		  <a class="nav-link" href="#">Productos</a>  
 		</li>
 		<li class="nav-item"><a class="nav-link" href="#">Ventas</a></li>
 		<li class="nav-item"><a class="nav-link" href="#">Rutas</a></li>
 		<li class="nav-item">
-		  <a class="nav-link" href="#">Contactanos</a>
+		  <a class="nav-link" href="contact.html">Contactanos</a>  
 		</li>
 		<li class="nav-item"></li>
 	      </ul>
@@ -72,7 +72,7 @@
 	<h1
 	  style="
 	  text-align: center;
-padding: 0px;
+	  padding: 0px;
 	  color: black;
 	  font-family: Helvetica, Arial;
 	  "
@@ -81,21 +81,21 @@ padding: 0px;
 	  medio ambiente.
 	</h1>
       </div>
-<br/>
-<br/>
-<div class="row landing_row" >
-      <div class="column landing_col">
-	<button class="btn_landing">Leer más</button> 
+      <br/>
+      <br/>
+      <div class="row landing_row" >
+	<div class="column landing_col">
+	  <button class="btn_landing">Leer más</button> 
 
 
-      </div>
+	</div>
 
-      <div class="column landing_col">
-	<button class="btn_landing">Contactanos</button> 
+	<div class="column landing_col">
+	  <button class="btn_landing">Contactanos</button> 
 
 
-      </div>
-<div/>
+	</div>
+	<div/>
     </section>
     <section class="projects-clean">
       <div class="container">
@@ -180,9 +180,9 @@ padding: 0px;
       <div class="container">
 	<footer class="footer-basic">
 	  <div class="social">
-	    <a href="#"><i class="icon ion-social-instagram"></i></a
-	    ><a href="#"><i class="icon ion-social-snapchat"></i></a
-	    ><a href="#"><i class="icon ion-social-twitter"></i></a
+	    <a href="https://www.instagram.com/ecoride8/"><i class="icon ion-social-instagram"></i></a
+	    ><a href="https://www.snapchat.com/add/ecoride"><i class="icon ion-social-snapchat"></i></a
+	    ><a href="https://twitter.com/Ecoride3"><i class="icon ion-social-twitter"></i></a
 	    ><a href="#"><i class="icon ion-social-facebook"></i></a>
 	  </div>
 	  <ul class="list-inline">
