@@ -43,7 +43,7 @@
 		  <a class="nav-link" href="#">Inicio</a>
 		</li>
 		<li class="nav-item">
-		  <a class="nav-link" href="#">Productos</a>  
+		  <a class="nav-link" href="productos.html">Productos</a>  
 		</li>
 		<li class="nav-item"><a class="nav-link" href="#">Ventas</a></li>
 		<li class="nav-item"><a class="nav-link" href="#">Rutas</a></li>
